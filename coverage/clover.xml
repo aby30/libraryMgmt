@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1609005443656" clover="3.2.0">
+  <project timestamp="1609005443688" name="All files">
+    <metrics statements="86" coveredstatements="65" conditionals="60" coveredconditionals="36" methods="26" coveredmethods="11" elements="172" coveredelements="112" complexity="0" loc="86" ncloc="86" packages="12" files="13" classes="13"/>
+    <package name="backend.configs.database">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="dao.js" path="/Users/Abhipray 1/Desktop/MY home/mYY work/HEXAD_assignment/Hexad_trial_code/hexad/backend/configs/database/dao.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="backend.repositories">
+      <metrics statements="21" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="1"/>
+      <file name="bookRepo.js" path="/Users/Abhipray 1/Desktop/MY home/mYY work/HEXAD_assignment/Hexad_trial_code/hexad/backend/repositories/bookRepo.js">
+        <metrics statements="9" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+      <file name="userRepo.js" path="/Users/Abhipray 1/Desktop/MY home/mYY work/HEXAD_assignment/Hexad_trial_code/hexad/backend/repositories/userRepo.js">
+        <metrics statements="12" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="client.components.book">
+      <metrics statements="5" coveredstatements="3" conditionals="7" coveredconditionals="2" methods="5" coveredmethods="1"/>
+      <file name="index.js" path="/Users/Abhipray 1/Desktop/MY home/mYY work/HEXAD_assignment/Hexad_trial_code/hexad/client/components/book/index.js">
+        <metrics statements="5" coveredstatements="3" conditionals="7" coveredconditionals="2" methods="5" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="client.components.book.__test__">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="__mock.js" path="/Users/Abhipray 1/Desktop/MY home/mYY work/HEXAD_assignment/Hexad_trial_code/hexad/client/components/book/__test__/__mock.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="client.components.button">
+      <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="1"/>
+      <file name="index.js" path="/Users/Abhipray 1/Desktop/MY home/mYY work/HEXAD_assignment/Hexad_trial_code/hexad/client/components/button/index.js">
+        <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="1"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="client.components.emptyScreenWithMsg">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="/Users/Abhipray 1/Desktop/MY home/mYY work/HEXAD_assignment/Hexad_trial_code/hexad/client/components/emptyScreenWithMsg/index.js">
+        <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="client.components.slider">
+      <metrics statements="6" coveredstatements="3" conditionals="17" coveredconditionals="7" methods="7" coveredmethods="1"/>
+      <file name="index.js" path="/Users/Abhipray 1/Desktop/MY home/mYY work/HEXAD_assignment/Hexad_trial_code/hexad/client/components/slider/index.js">
+        <metrics statements="6" coveredstatements="3" conditionals="17" coveredconditionals="7" methods="7" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="client.components.slider.__test__">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="__mock.js" path="/Users/Abhipray 1/Desktop/MY home/mYY work/HEXAD_assignment/Hexad_trial_code/hexad/client/components/slider/__test__/__mock.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.api.borrowBooks">
+      <metrics statements="18" coveredstatements="17" conditionals="15" coveredconditionals="12" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="/Users/Abhipray 1/Desktop/MY home/mYY work/HEXAD_assignment/Hexad_trial_code/hexad/pages/api/borrowBooks/index.js">
+        <metrics statements="18" coveredstatements="17" conditionals="15" coveredconditionals="12" methods="1" coveredmethods="1"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="10" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="3" type="cond" truecount="5" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="24" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="31" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.api.getBooksList">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="/Users/Abhipray 1/Desktop/MY home/mYY work/HEXAD_assignment/Hexad_trial_code/hexad/pages/api/getBooksList/index.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.api.getUserDetails">
+      <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="/Users/Abhipray 1/Desktop/MY home/mYY work/HEXAD_assignment/Hexad_trial_code/hexad/pages/api/getUserDetails/index.js">
+        <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="4" count="7" type="stmt"/>
+        <line num="6" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="9" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.api.returnBook">
+      <metrics statements="14" coveredstatements="13" conditionals="10" coveredconditionals="7" methods="2" coveredmethods="2"/>
+      <file name="index.js" path="/Users/Abhipray 1/Desktop/MY home/mYY work/HEXAD_assignment/Hexad_trial_code/hexad/pages/api/returnBook/index.js">
+        <metrics statements="14" coveredstatements="13" conditionals="10" coveredconditionals="7" methods="2" coveredmethods="2"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="13" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="20" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

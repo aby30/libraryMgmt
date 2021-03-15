@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Book card renders with main cta hidden 1`] = `
+<DocumentFragment>
+  <div
+    class="slider"
+  >
+    <div
+      class="slider__title"
+    >
+      Slider text
+      <img
+        src="https://res.cloudinary.com/abyy30/image/upload/v1608744290/cross_vho0yd.svg"
+      />
+    </div>
+    <div
+      class="slider__inner"
+    >
+      <div />
+      <div
+        class="slider__limitMsg alert"
+      >
+        This is custom msg
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Book card renders with main cta visible 1`] = `
+<DocumentFragment>
+  <div
+    class="slider"
+  >
+    <div
+      class="slider__title"
+    >
+      Slider text
+      <img
+        src="https://res.cloudinary.com/abyy30/image/upload/v1608744290/cross_vho0yd.svg"
+      />
+    </div>
+    <div
+      class="slider__inner"
+    >
+      <div />
+      <div
+        class="slider__limitMsg alert"
+      >
+        This is custom msg
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

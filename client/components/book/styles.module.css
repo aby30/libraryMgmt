@@ -1,0 +1,50 @@
+.book {
+  overflow: hidden;
+}
+
+.book:hover .book__actionWrap {
+  visibility: visible;
+}
+
+.book:hover img {
+  transform: scale(1.1);
+}
+
+.book__inner {
+  position: relative;
+}
+
+.book__inner > img {
+  width: 200px;
+  max-width: 100%;
+  transition: all 0.3s ease;
+}
+
+.book__actionWrap {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.7);
+  visibility: hidden;
+  transition: all 0.3s ease;
+}
+
+.book__actionWrap > button {
+  margin: 10px;
+}
+
+.book__selected {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+.book__selected > img {
+  width: 30px;
+}

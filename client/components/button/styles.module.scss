@@ -1,0 +1,27 @@
+.button {
+  border-radius: 4px;
+  cursor: pointer;
+  &.small {
+    width: 72px;
+    padding: 8px 12px;
+  }
+  &.medium {
+    width: 112px;
+    padding: 8px 12px;
+  }
+  &.large {
+    width: 182px;
+    padding: 15px;
+    font-size: 18px;
+  }
+  &.primary {
+    background-color: #e7354d;
+    border: 1px solid #e7354d;
+    color: #ffffff;
+  }
+  &.secondary {
+    background-color: #ffffff;
+    border: 1px solid #e7354d;
+    color: #e7354d;
+  }
+}

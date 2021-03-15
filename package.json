@@ -1,0 +1,27 @@
+{
+  "name": "hexad",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node ./database.js && next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "next": "10.0.3",
+    "node-mocks-http": "1.9.0",
+    "prop-types": "15.7.2",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "sass": "1.30.0",
+    "sqlite": "3.0.3"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "5.0.2",
+    "@testing-library/react": "9.4.0",
+    "babel-jest": "24.9.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "24.9.0"
+  }
+}

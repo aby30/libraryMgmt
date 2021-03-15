@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`No Result screen renders 1`] = `
+<DocumentFragment>
+  <div
+    class="noResult"
+  >
+    <div
+      class="noResult__inner"
+    >
+      No results text here
+    </div>
+  </div>
+</DocumentFragment>
+`;

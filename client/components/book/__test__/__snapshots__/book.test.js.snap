@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Book card renders 1`] = `
+<DocumentFragment>
+  <div
+    class="book"
+  >
+    <div
+      class="book__inner"
+    >
+      <img
+        src="https://res.cloudinary.com/abyy30/image/upload/v1608652378/bookImages/star.jpg"
+      />
+      <div
+        class="book__actionWrap"
+      >
+        <button
+          class="button primary medium"
+        >
+          Add to cart
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
